@@ -5,9 +5,9 @@ This repository contains some small volume data sets for testing and development
 A dataset is stored in xyz order in a single .raw file. These .raw files are binary 3D-arrays and contain no header. Additionally each dataset is providen in a preprocessed form with an applied window and an regular spacing between all voxels in all dimension.
 
 ### MRbrain
-![MRbrainProcessedZ100](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/MRbrain/Processed_Z_100.jpg)
-![MRbrainProcessedY142](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/MRbrain/Processed_Y_142.jpg)
-![MRbrainProcessedX125](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/MRbrain/Processed_X_125.jpg)
+![MRbrainProcessedZ100](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/MRbrain/Processed_Z_100.jpg)
+![MRbrainProcessedY142](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/MRbrain/Processed_Y_142.jpg)
+![MRbrainProcessedX125](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/MRbrain/Processed_X_125.jpg)
 
 #### Description:
 MR study of head with skull partially removed to reveal brain. If you are going to send this data set to someone, please also send the accompanying [information file](https://github.com/FreddyFunk/Volume-Data-Archive/blob/master/MRbrain/MRbrain.info) and [announcement file](https://github.com/FreddyFunk/Volume-Data-Archive/blob/master/MRbrain/Announcement.txt).
@@ -22,9 +22,9 @@ University of North Carolina
 [The Stanford volume data archive](http://www.graphics.stanford.edu/data/voldata/)
 
 ### CThead
-![CTheadProcessedY101](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/CThead/Processed_Y_101.jpg)
-![CTheadProcessedX144](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/CThead/Processed_X_144.jpg)
-![CTheadProcessedZ100](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/CThead/Processed_Z_100.jpg)
+![CTheadProcessedY101](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/CThead/Processed_Y_101.jpg)
+![CTheadProcessedX144](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/CThead/Processed_X_144.jpg)
+![CTheadProcessedZ100](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/CThead/Processed_Z_100.jpg)
 
 #### Description:
 CT study of a cadaver head. If you are going to send this data set to someone, please also send the accompanying [information file](https://github.com/FreddyFunk/Volume-Data-Archive/blob/master/CThead/CThead.info) and [announcement file](https://github.com/FreddyFunk/Volume-Data-Archive/blob/master/CThead/Announcement.txt).
@@ -39,9 +39,9 @@ University of North Carolina
 [The Stanford volume data archive](http://www.graphics.stanford.edu/data/voldata/)
 
 ### CT Stanford Bunny
-![CTStanfordBunnyProcessedX144](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/CT-Stanford-Bunny/Processed_X_227.jpg)
-![CTStanfordBunnyProcessedZ100](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/CT-Stanford-Bunny/Processed_Z_270.jpg)
-![CTStanfordBunnyProcessedY101](https://github.com/FreddyFunk/Volumetric-Data-Archive/raw/master/CT-Stanford-Bunny/Processed_Y_282.jpg)
+![CTStanfordBunnyProcessedX144](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/CT-Stanford-Bunny/Processed_X_227.jpg)
+![CTStanfordBunnyProcessedZ100](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/CT-Stanford-Bunny/Processed_Z_270.jpg)
+![CTStanfordBunnyProcessedY101](https://raw.githubusercontent.com/FreddyFunk/Volume-Data-Archive/master/CT-Stanford-Bunny/Processed_Y_282.jpg)
 
 #### Description:
 CT scan of the Stanford terra-cotta bunny. If you are going to send this data set to someone, please also send the accompanying [information file](https://github.com/FreddyFunk/Volume-Data-Archive/blob/master/CT-Stanford-Bunny/CT-Stanford-Bunny.info) and [announcement file](https://github.com/FreddyFunk/Volume-Data-Archive/blob/master/CT-Stanford-Bunny/Announcement.txt).
