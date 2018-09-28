@@ -56,5 +56,6 @@ University of North Carolina
 [The Stanford volume data archive](http://www.graphics.stanford.edu/data/voldata/)
 
 ## Links to public volume data
++ [The Cancer Imaging Archive (TCIA)](http://www.cancerimagingarchive.net/)
 + [InVols viewer test datasets in binary form](http://ngavrilov.ru/invols/index.php?id=Download)
 + [The Stanford volume data archive](http://www.graphics.stanford.edu/data/voldata/)
