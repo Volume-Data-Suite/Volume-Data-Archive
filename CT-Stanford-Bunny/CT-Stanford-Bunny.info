@@ -1,0 +1,14 @@
+Description:
+CT scan of the Stanford terra-cotta bunny
+
+Dimensions:
+360 slices of 512 x 512 pixels, voxel grid is rectangular, and XYZ aspect ratio of each voxel is 111
+
+Files:
+360 binary files, one file per slice
+
+File format:
+16-bit integers (Mac byte ordering), file contains no header
+
+Data source:
+Terry Yoo of the National Library of Medicine, using a scanner provided by Sandy Napel and Geoff Rubin of Stanford Radiology, of the terra-cotta bunny provided by Marc Levoy of Stanford CS
