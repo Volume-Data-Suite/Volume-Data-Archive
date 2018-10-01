@@ -3,7 +3,7 @@ Applied Window:
     Window Width: 2800
     Offset: -2500
 
-Trilinear Interpolation:
+Tricubic Interpolation:
 Dimensions Original: x = 256; y = 256; z = 109
 Dimensions Processsed: x = 256; y = 256; z = 218
 Spacing Original: x = 1.0; y = 1.0; z = 2.0
